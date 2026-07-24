@@ -1,2 +1,5 @@
-Records coming soon.
+---
+layout: home
+---
 
+Records coming soon.
